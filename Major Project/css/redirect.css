@@ -157,6 +157,7 @@ header .icon-burger{
     right: 5%;
     top: 10%;
     transform: translateY(50%);
+    cursor: pointer;
 
 }
 
